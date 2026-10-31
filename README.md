@@ -141,7 +141,13 @@ marketing-campaign-analytics/
 ### Executive Dashboard
 
 ![Marketing Campaign Dashboard](PowerBI/Screenshot%202026-10-31%20150949.png)
+### Monthly Revenue Analysis
 
+![Monthly Revenue Analysis](PowerBI/Screenshot%202026-10-31%20151016.png)
+
+### Additional Campaign Analysis
+
+![Additional Campaign Analysis](PowerBI/Screenshot%202026-10-31%20151041.png)
 Explore the Power BI dashboard screenshots in the `PowerBI` folder.
 
 ## Project Files
