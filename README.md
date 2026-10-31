@@ -138,6 +138,9 @@ marketing-campaign-analytics/
 6. How efficiently is the marketing budget being utilised?
 
 ## Dashboard Preview
+### Executive Dashboard
+
+![Marketing Campaign Dashboard](PowerBI/Screenshot%202026-10-31%20150949.png)
 
 Explore the Power BI dashboard screenshots in the `PowerBI` folder.
 
