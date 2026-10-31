@@ -172,6 +172,23 @@ Explore the Power BI dashboard screenshots in the `PowerBI` folder.
 ## Project Purpose
 
 This project was developed as part of my data analytics portfolio to demonstrate practical application of data analysis tools in solving business problems.
+## Key Business Insights
+
+The analysis revealed the following findings:
+
+- Generated ₹153.56M in attributed revenue against ₹5.13M in marketing spend.
+- Achieved an overall Return on Ad Spend (ROAS) of 29.91.
+- Recorded approximately 58K conversions across marketing campaigns.
+- Google Ads generated the highest revenue among the marketing channels.
+- Newsletter campaigns recorded the highest campaign-level revenue.
+- Channel and campaign-level comparisons help identify stronger-performing marketing investments.
+
+## Business Recommendations
+
+- Evaluate marketing channels using both revenue and ROAS.
+- Prioritize campaigns that demonstrate stronger returns.
+- Review underperforming campaigns to identify optimization opportunities.
+- Monitor monthly revenue and ROAS trends to improve budget allocation.
 
 ---
 
